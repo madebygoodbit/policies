@@ -6,6 +6,6 @@ exclude: true
 
 ## A Few Mins
 
-- [Privacy Policy](/antimisinfogames/afm-pp)
-- [Terms of Use](/antimisinfogames/afm-tou)
-- [Open Source License Disclosure](/antimisinfogames/labour-open-source-licence-disclosure.pdf)
+- [Privacy Policy](/policies/stbu-pp)
+- [Terms of Use](/policies/stbu-tou)
+- [Open Source License Disclosure](/policies/small-trivia/labour-open-source.pdf)

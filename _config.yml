@@ -1,5 +1,6 @@
 # Site settings
 title: Made by Goodbit
+author: Goodbit
 email: hello@madebygoodbit.com
 description: >- # this means to ignore newlines until "baseurl:"
   Goodbit's official GIT repository for our games and tools 
@@ -8,7 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/policies"
 url: "https://madebygoodbit.github.io/"
 github_username: madebygoodbit
-github_url: https://madebygoodbit.github.io/policies/
+github_url: https://github.com/madebygoodbit/policies
 
 # Build settings
 markdown: kramdown
