@@ -35,3 +35,9 @@ exclude: true
 ```
 [Privacy Policy](/policies/stbu-pp)
 ```
+
+## Build and Deployment
+
+When you commit and push a change to Github, it will automatically build the new pages. You can view the progress of the build here:
+
+[Github Actions](https://github.com/madebygoodbit/policies/actions)
