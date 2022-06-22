@@ -1,14 +1,14 @@
 # Site settings
-title: Digital Public Square
-email: hello@digitalpublicsquare.org
+title: Made by Goodbit
+email: hello@madebygoodbit.com
 description: >- # this means to ignore newlines until "baseurl:"
-  DPS's official GIT repository for our misinformation games and tools 
+  Goodbit's official GIT repository for our games and tools 
   - you'll find their Privacy Policy, Terms of Use, and repositories 
   here so you can track any changes over time.
-baseurl: "/antimisinfogames"
-url: "https://digitalpublicsquare.github.io"
+baseurl: "/policies"
+url: "https://madebygoodbit.github.io/"
 github_username: digitalpublicsquare
-github_url: https://github.com/digitalpublicsquare/antimisinfogames
+github_url: https://madebygoodbit.github.io/policies/
 
 # Build settings
 markdown: kramdown
