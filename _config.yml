@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   here so you can track any changes over time.
 baseurl: "/policies"
 url: "https://madebygoodbit.github.io/"
-github_username: digitalpublicsquare
+github_username: madebygoodbit
 github_url: https://madebygoodbit.github.io/policies/
 
 # Build settings
