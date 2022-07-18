@@ -17,7 +17,7 @@ The Site is made available to you for educational and research purposes.
 
 ALL OF THE INFORMATION ON THIS Site IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY. IT IS NOT A SUBSTITUTE FOR PROFESSIONAL ADVICE (INCLUDING MEDICAL OR LEGAL ADVICE), DIAGNOSIS OR TREATMENT NOR DOES IT REPRESENT AN ASSESSMENT, VERIFICATION OR VALIDATION OF ANY THIRD PARTY WEBSITES, SERVICES OR PRODUCTS. RELIANCE ON ANY INFORMATION PROVIDED BY GOODBIT OR ITS SERVICE PROVIDERS APPEARING ON OR PROVIDED IN RELATION TO THE SITE IS SOLELY AT YOUR OWN RISK. NEITHER GOODBIT NOR ANY OF ITS SERVICE PROVIDERS ASSUMES ANY RESPONSIBILITY OR LIABILITY FOR ANY DAMAGES, CLAIMS, LIABILITIES, COSTS OR OBLIGATIONS ARISING FROM THE USE OF THIS SITE OR ANY OTHER WEBSITE TO WHICH THIS SITE IS LINKED.
 
-These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Site. You agree that your use of the Services is subject to the terms of our [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/chip-pp/) (“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
+These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Site. You agree that your use of the Services is subject to the terms of our [Privacy Policy](/policies/chip-pp/) (“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
 
 BY USING THE Site, YOU ARE DEEMED TO HAVE READ AND ARE INDICATING YOUR ACCEPTANCE OF, AND YOU AGREE TO BE BOUND BY, THE TERMS AND CONDITIONS OF THESE TERMS WHICH SHALL GOVERN YOUR ACCESS AND USE OF THE Site. IF YOU DO NOT AGREE WITH ONE OR MORE OF THESE TERMS, YOU MAY NOT ACCESS OR USE THE Site AND MUST EXIT THE Site. THESE TERMS CONTAIN A RELEASE BY YOU OF ALL CLAIMS FOR DAMAGE AGAINST US THAT MAY ARISE OUT OF YOUR USE OF THE Site. BY USING THE Site, YOU AFFIRM THAT YOU AGREE TO THESE PROVISIONS.
 
@@ -29,7 +29,7 @@ We reserve the right to make changes to these Terms at any time and for any reas
 
 ### **PERSONAL INFORMATION**
 
-Your personal information is governed by our [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/chip-pp/).
+Your personal information is governed by our [Privacy Policy](/policies/chip-pp/).
 
 ### **CONTENT AND LICENSE**
 
