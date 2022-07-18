@@ -1,17 +1,15 @@
 ---
 layout: page
-title: Small trivia, big challenge!
-permalink: /stbu-tou/
+title: Our Stollery!
+permalink: /chip-tou/
 exclude: true
 ---
 
 # **TERMS OF USE**
 
-_LAST UPDATED: May 9, 2022_
+_LAST UPDATED: July 18, 2022_
 
-「隐私政策/使用条款」的正式版本载于下方。如有要求，我们可以提供中文译本的便利。
-
-These websites located at afewmins.com and smalltrivia.com (together, the “Site”) are operated by Goodbit (“we”, “us” or “our”). The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
+These websites located at https://reflect.stollerytomorrowandtoday.com (together, the “Site”) are operated by Goodbit (“we”, “us” or “our”). The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
 
 The Site is made available to you for educational and research purposes.
 
@@ -19,7 +17,7 @@ The Site is made available to you for educational and research purposes.
 
 ALL OF THE INFORMATION ON THIS Site IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY. IT IS NOT A SUBSTITUTE FOR PROFESSIONAL ADVICE (INCLUDING MEDICAL OR LEGAL ADVICE), DIAGNOSIS OR TREATMENT NOR DOES IT REPRESENT AN ASSESSMENT, VERIFICATION OR VALIDATION OF ANY THIRD PARTY WEBSITES, SERVICES OR PRODUCTS. RELIANCE ON ANY INFORMATION PROVIDED BY GOODBIT OR ITS SERVICE PROVIDERS APPEARING ON OR PROVIDED IN RELATION TO THE SITE IS SOLELY AT YOUR OWN RISK. NEITHER GOODBIT NOR ANY OF ITS SERVICE PROVIDERS ASSUMES ANY RESPONSIBILITY OR LIABILITY FOR ANY DAMAGES, CLAIMS, LIABILITIES, COSTS OR OBLIGATIONS ARISING FROM THE USE OF THIS SITE OR ANY OTHER WEBSITE TO WHICH THIS SITE IS LINKED.
 
-These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Site. You agree that your use of the Services is subject to the terms of our [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/afm-pp/) (“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
+These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Site. You agree that your use of the Services is subject to the terms of our [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/chip-pp/) (“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
 
 BY USING THE Site, YOU ARE DEEMED TO HAVE READ AND ARE INDICATING YOUR ACCEPTANCE OF, AND YOU AGREE TO BE BOUND BY, THE TERMS AND CONDITIONS OF THESE TERMS WHICH SHALL GOVERN YOUR ACCESS AND USE OF THE Site. IF YOU DO NOT AGREE WITH ONE OR MORE OF THESE TERMS, YOU MAY NOT ACCESS OR USE THE Site AND MUST EXIT THE Site. THESE TERMS CONTAIN A RELEASE BY YOU OF ALL CLAIMS FOR DAMAGE AGAINST US THAT MAY ARISE OUT OF YOUR USE OF THE Site. BY USING THE Site, YOU AFFIRM THAT YOU AGREE TO THESE PROVISIONS.
 
@@ -31,7 +29,7 @@ We reserve the right to make changes to these Terms at any time and for any reas
 
 ### **PERSONAL INFORMATION**
 
-Your personal information is governed by our [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/afm-pp/).
+Your personal information is governed by our [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/chip-pp/).
 
 ### **CONTENT AND LICENSE**
 
@@ -63,7 +61,7 @@ These Terms and any documents referenced herein shall be governed by and constru
 
 ### **ENTIRE AGREEMENT**
 
-These Terms and the Privacy Policy constitute the entire agreement between you and Goodbit as it relates to the access to, and use of, the Site, and the subject matter of these Terms and supersede all prior or contemporaneous agreements, negotiations, representations and proposals, written or oral between Goodbit and you. All covenants, agreements, representations and warranties made in these Terms shall survive your acceptance of these Terms and the termination of our relationship with you. You and Goodbit agree that these Terms and all documents relating thereto be drawn-up in English. 我们已要求采用英语草拟此协议以及所有相关文件。
+These Terms and the Privacy Policy constitute the entire agreement between you and Goodbit as it relates to the access to, and use of, the Site, and the subject matter of these Terms and supersede all prior or contemporaneous agreements, negotiations, representations and proposals, written or oral between Goodbit and you. All covenants, agreements, representations and warranties made in these Terms shall survive your acceptance of these Terms and the termination of our relationship with you. You and Goodbit agree that these Terms and all documents relating thereto be drawn-up in English.
 
 ### **SEVERABILITY AND WAIVER**
 

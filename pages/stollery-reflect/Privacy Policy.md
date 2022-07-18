@@ -1,17 +1,15 @@
 ---
 layout: page
-title: Small trivia, big challenge!
-permalink: /stbu-pp/
+title: Our Stollery!
+permalink: /chip-pp/
 exclude: true
 ---
 
 # **PRIVACY POLICY**
 
-_LAST UPDATED: May 9, 2022_
+_LAST UPDATED: July 18, 2022_
 
-「隐私政策/使用条款」的正式版本载于下方。如有要求，我们可以提供中文译本的便利。
-
-Goodbit (“we” or “us” or “our”) is committed to protecting the privacy of visitors to our websites located at afewmins.com and smalltrivia.com (together, the “Site”). The Site includes all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information.
+Goodbit (“we” or “us” or “our”) is committed to protecting the privacy of visitors to our websites located at https://reflect.stollerytomorrowandtoday.com (the “Site”). The Site includes all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information.
 
 This Privacy Policy forms part of our Terms of Use and explains how we collect, use, disclose, and safeguard your personal information when you visit our Site. The Site is made available to you for educational and research purposes.
 
