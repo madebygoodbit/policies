@@ -4,13 +4,6 @@ title: Privacy Policies & Terms of Use
 exclude: true
 ---
 
-## Small Trivia, Big Upgrade
-
-- [Privacy Policy](/policies/stbu-pp)
-- [Terms of Use](/policies/stbu-tou)
+- [Privacy policy](/policies/privacy_policy)
+- [Terms of use](/policies/terms_of_use)
 - [Open Source License Disclosure](/policies/pages/small-trivia/open-source.pdf)
-
-## Our Stollery
-
-- [Privacy Policy](/policies/chip-pp/)
-- [Terms of Use](/policies/chip-tou)
